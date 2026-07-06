@@ -53,6 +53,11 @@
 - [URL Encoder](https://run-dev.com/tools/url-encoder/) — URL encode/decode
 - [Diff Checker](https://run-dev.com/tools/diff-checker/) — Compare text differences
 
+**[DevBox Tools](https://devbox.tools/)** — Free browser-based developer toolbox with 58+ utilities, no signup required.
+- [Regex Tester](https://devbox.tools/utils/regex-tester) — Test and debug JavaScript regex
+- [Hash Generator](https://devbox.tools/utils/md5-sha1-sha256-hash-generator) — MD5, SHA-1, SHA-256 hashing
+- [Timestamp Converter](https://devbox.tools/utils/timestamp-converter) — Unix, ISO 8601, RFC 2822 conversion
+
 ## Converters
 
 **[ConvKit](https://conv-kit.com/)** — Free online file and data converters.
